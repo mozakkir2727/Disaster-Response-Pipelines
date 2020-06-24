@@ -13,4 +13,4 @@
 2. Run the command inside the app's directory to run your web app.
     "python run.py"
 
-3. Go to http://0.0.0.0:3001/
+3. Go to https://view6914b2f4-3001.udacity-student-workspaces.com
